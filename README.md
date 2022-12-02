@@ -4,8 +4,6 @@ Software Testing / Test Automation By Bharath - DEC 2022
 
 ### COURSE : SOFTWARE TESTING / TEST AUTOMATION
 
-### COURSE CONTENT:  https://github.com/bharathnittech/SeleniumTraining7PM/blob/master/Selenium%20Course%20Content%20Evening%207.30PM.pdf
-
 ### TIMINGS : 9:00 AM to 10:30 AM (MON – SAT)
 
 ### TRAINER : BHARATH
@@ -49,3 +47,25 @@ Branch:  Ameerpeta
 
 
 ## Previous Demo Videos:
+
+## COURSE CONTENT
+
+### Manual Testing
+
+Introduction to Software, Software testing and Quality Assurance
+Introduction to Manual Testing & Automation Testing
+Software Testing Terminology & Career Path
+Error , Defect , Bug and Failures in Software
+Types of Defects in Software Testing
+Software Development Life Cycle (SDLC)
+Different SDLC Models (Waterfall , V-Model and Agile Model)
+Agile Scrum Methodology & Agile Kanban Methodology
+Software Testing Life Cycle (STLC)
+Test Plan and Test Strategy
+Software Testing Techniques
+Software Testing Levels
+Software Test Design Techniques
+Software Testing Techniques
+Defect Life Cycle (STLC)
+Realtime Project Experience , Project Setup using JIRA /Confluence Tools
+Lab Sessions on Requirement Analysis , Test Case Design and Test Execution With Test Management tools
