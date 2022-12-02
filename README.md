@@ -53,19 +53,35 @@ Branch:  Ameerpeta
 ### Manual Testing
 
 Introduction to Software, Software testing and Quality Assurance
+
 Introduction to Manual Testing & Automation Testing
+
 Software Testing Terminology & Career Path
+
 Error , Defect , Bug and Failures in Software
+
 Types of Defects in Software Testing
+
 Software Development Life Cycle (SDLC)
+
 Different SDLC Models (Waterfall , V-Model and Agile Model)
+
 Agile Scrum Methodology & Agile Kanban Methodology
+
 Software Testing Life Cycle (STLC)
+
 Test Plan and Test Strategy
+
 Software Testing Techniques
+
 Software Testing Levels
+
 Software Test Design Techniques
+
 Software Testing Techniques
+
 Defect Life Cycle (STLC)
+
 Realtime Project Experience , Project Setup using JIRA /Confluence Tools
+
 Lab Sessions on Requirement Analysis , Test Case Design and Test Execution With Test Management tools
