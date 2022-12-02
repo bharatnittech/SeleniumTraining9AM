@@ -296,5 +296,11 @@ Jenkins Pipelines Setup and Scheduling Jenkins Jobs and run Automation scripts
 
 Verifying test results in Jenkins
 
+### SKILLS
 
+![Learn 0](https://user-images.githubusercontent.com/106417392/205208296-ace6274f-d9de-40ad-9019-81d87beeb964.png)
+
+### TOOLS
+
+![Learn 1](https://user-images.githubusercontent.com/106417392/205208341-a10a71a5-aa81-439b-9dd6-4b7de7d1a937.png)
 
