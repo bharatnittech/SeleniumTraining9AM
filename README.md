@@ -48,6 +48,9 @@ Branch:  Ameerpeta
 
 ## Previous Demo Videos:
 
+Day-1 https://youtu.be/_PPmpfp9uNY
+
+
 ## COURSE CONTENT
 
 ### MANUAL TESTING
