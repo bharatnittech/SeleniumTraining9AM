@@ -50,6 +50,9 @@ Branch:  Ameerpeta
 
 Day-1 https://youtu.be/_PPmpfp9uNY
 
+Day-2 https://youtu.be/u_fV_wC6VmI
+
+
 
 ## COURSE CONTENT
 
